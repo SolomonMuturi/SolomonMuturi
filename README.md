@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Solomon Muturi
 
 I’m a full-stack software developer based in Nairobi, Kenya.  
-I enjoy building practical software that solves real business problems — especially automation systems, POS tools, and web applications.
+I enjoy building practical software that solves real business problems; automation systems, POS tools, and web applications.
 
 ---
 
