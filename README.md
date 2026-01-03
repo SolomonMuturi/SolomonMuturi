@@ -30,5 +30,6 @@ I enjoy taking projects from idea → development → deployment and supporting 
 
 Email: **solomonnjuguna8@gmail.com**  
 GitHub: **[github.com/SolomonMuturi](https://github.com/SolomonMuturi)**  
+Phone: **+254748945248**
 
 Let’s build something meaningful.
