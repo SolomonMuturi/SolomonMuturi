@@ -12,15 +12,7 @@ I enjoy building practical software that solves real business problems; automati
 - Databases: MySQL, PostgreSQL  
 - Other: Deployment, troubleshooting, user support, training  
 
----
-
-## 🛠 Selected Projects
-
-- Packhouse Management & Automation System – improved reporting and workflow efficiency  
-- Pharmacy POS System – inventory, billing, and staff onboarding  
-- Loan Management System – built for a Sacco environment  
-- Inventory & POS (Graphics business) – sales tracking and stock control  
-- Corporate Websites – WordPress design and maintenance  
+---  
 
 I enjoy taking projects from idea → development → deployment and supporting users along the way.
 
