@@ -32,4 +32,7 @@ Email: **solomonnjuguna8@gmail.com**
 GitHub: **[github.com/SolomonMuturi](https://github.com/SolomonMuturi)**  
 Phone: **+254748945248**
 
+-  WhatsApp Me:
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/254748945248)
+
 Let’s build something meaningful.
