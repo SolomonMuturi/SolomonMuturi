@@ -7,7 +7,7 @@ I enjoy building practical software that solves real business problems; automati
 
 ## 🧰 Tech Stack
 
-- Backend: Laravel, PHP, REST APIs  
+- Backend: Laravel, PHP, Python, REST APIs  
 - Frontend: React.js, Vue.js, JavaScript  
 - Databases: MySQL, PostgreSQL  
 - Other: Deployment, troubleshooting, user support, training  
